@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/background.png");
+}
+h1 {
+  color: black;
+}
+p {
+  color: red;
+}
+
+.boton {
+  padding: 8px 25px;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background-color:rgb(179, 44, 44);
+  border: none;
+  width: 6%;
+  margin:auto;
+  display:grid;
+  float: right;
+}
